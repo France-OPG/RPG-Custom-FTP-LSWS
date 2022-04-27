@@ -1,5 +1,5 @@
-# RPG-Custom-FTP
-## Remplacer le style classique de votre FTP pour un plus sympa. (Apache uniquement)
+# RPG-Custom-FTP-LSWS
+## Remplacer le style classique de votre FTP pour un plus sympa. (LSWS uniquement)
 
 ⚠!!! RPG-Custom-FTP-LSWS ne fonctionne pas encore !!!⚠
 
